@@ -1,7 +1,7 @@
 # The New York Jets
 
 ## History of the New York Jets
-<p></p>
+<p>The Jets were founded in 1959 and were originally named the Titans of New York. Eventually, they were sold and renamed the Jets. The Jets played in the Super Bowl for the first time in 1968 and ended up beating the Baltimore Colts with a score of 16-7. The Jets played in the playoffs from 2001-2010 and made the playoffs six times. However, their last appearance in the playoffs wasduring 2010 when they lost to the Pittsburgh Steelers 24-19.</p>
 
 
 ### The New York Jets
