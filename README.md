@@ -1,4 +1,4 @@
-# Football | The New York Jets
+# The New York Jets
 
 ## History of the New York Jets
 <p></p>
