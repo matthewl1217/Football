@@ -14,12 +14,11 @@ The colors of the New York Jets are stealth black, spotlight white, and gotham g
 <i>This image is an example of the New York Jets' uniforms.</i>
 
 ##### Top 5 Performers on the Team
-<ul>
-  <il>QB Aaron Rodgers (#8)</il>
-  <il>CB Sauce Gardner (#1)</il>
-  <il>DT Quinnen Williams (#95)</il>
-  <il>WR Garrett Wilson (#17)</il>
-  <il>G Alijah-Vera Tucker (#75)</il>
-</ul>
+
+  1. QB Aaron Rodgers (#8)
+  2. CB Sauce Gardner (#1)
+  3. DT Quinnen Williams (#95)
+  4. WR Garrett Wilson (#17)
+  5. G Alijah-Vera Tucker (#75)
 
 
