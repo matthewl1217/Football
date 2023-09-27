@@ -13,6 +13,9 @@ The colors of the New York Jets are stealth black, spotlight white, and gotham g
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/NY_jets_uniforms19.png/600px-NY_jets_uniforms19.png">
 <i>This image is an example of the New York Jets' uniforms.</i>
 
+[New York Jets Color Code](https://teamcolorcodes.com/new-york-jets-color-codes/)
+
+
 ##### Top 5 Performers on the Team
 
   1. QB Aaron Rodgers (#8)
